@@ -1,5 +1,5 @@
 # Zomato-Restaurant-Exploratory-Data-Analysis-Project
-1. Load the data and import the python libraries
+### 1. Load the data and import the python libraries
 #### 2. Data preprocessing
 
 - Deleting redudant columns
